@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I'm a computer scientist student in Lannion.
+- 😄 My name is Thomas and i have 19 years old.
+- 📫 How to reach me: discord : t0hmi#7894
+
+### Discover my recent projects ⬇️!
 
 <!--
 **t0hmi/t0hmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
