@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 Coucou les bros
 
 ### Certains de mes projets ⬇️!
 
